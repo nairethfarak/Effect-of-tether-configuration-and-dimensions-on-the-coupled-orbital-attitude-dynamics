@@ -1,0 +1,1 @@
+# Effect-of-tether-configuration-and-dimensions-on-the-coupled-orbital-attitude-dynamics
